@@ -1,0 +1,24 @@
+{
+    "ads_enabled": true,
+    "app_open": {
+        "enabled": true,
+        "provider": "yandex",
+        "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+        "yandex_ad_unit_id": "demo-appopen-yandex"
+    },
+    "banner": {
+        "enabled": true,
+        "provider": "admob",
+        "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+        "yandex_ad_unit_id": "demo-banner-yandex"
+    },
+    "interstitial": {
+        "enabled": true,
+        "provider": "yandex",
+        "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+        "yandex_ad_unit_id": "demo-interstitial-yandex"
+    },
+    "features": {
+        "download_enabled": true
+    }
+}
