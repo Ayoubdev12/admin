@@ -7,7 +7,7 @@
         "yandex_ad_unit_id": "demo-appopen-yandex"
     },
     "banner": {
-        "enabled": true,
+        "enabled": false,
         "provider": "admob",
         "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
         "yandex_ad_unit_id": "demo-banner-yandex"
