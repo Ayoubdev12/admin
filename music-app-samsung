@@ -1,7 +1,7 @@
 {
     "ads_enabled": true,
     "app_open": {
-        "enabled": true,
+        "enabled": false,
         "provider": "yandex",
         "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
         "yandex_ad_unit_id": "demo-appopen-yandex"
