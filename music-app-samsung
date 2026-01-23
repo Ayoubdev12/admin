@@ -13,7 +13,7 @@
         "yandex_ad_unit_id": "demo-banner-yandex"
     },
     "interstitial": {
-        "enabled": true,
+        "enabled": false,
         "provider": "yandex",
         "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
         "yandex_ad_unit_id": "demo-interstitial-yandex"
