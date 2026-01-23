@@ -19,6 +19,6 @@
         "yandex_ad_unit_id": "demo-interstitial-yandex"
     },
     "features": {
-        "download_enabled": true
+        "download_enabled": false
     }
 }
