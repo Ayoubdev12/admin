@@ -40,7 +40,7 @@
     "redirectURL": "https://play.google.com/store/apps/details?id=your.package.name"
   },
   "AdsController": {
-    "BannerNetwork": "admob",
+    "BannerNetwork": "yandex",
     "InterstitialNetwork": "yandex",
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork": "yandex",
