@@ -19,7 +19,7 @@
         "vpnName": "Germany",
         "vpnIso": "DE",
         "vpnFile": "https://example.com/vpn/de.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "France",
