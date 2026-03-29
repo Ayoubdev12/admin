@@ -1,0 +1,75 @@
+{
+  "VpnController": {
+    "VpnUserName": "your_vpn_username",
+    "VpnPassword": "your_vpn_password",
+    "VpnList": [
+      {
+        "vpnName": "United States",
+        "vpnIso": "US",
+        "vpnFile": "https://example.com/vpn/us.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnIso": "GB",
+        "vpnFile": "https://example.com/vpn/uk.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "Germany",
+        "vpnIso": "DE",
+        "vpnFile": "https://example.com/vpn/de.ovpn",
+        "vpnLocked": true
+      },
+      {
+        "vpnName": "France",
+        "vpnIso": "FR",
+        "vpnFile": "https://example.com/vpn/fr.ovpn",
+        "vpnLocked": false
+      },
+      {
+        "vpnName": "Japan",
+        "vpnIso": "JP",
+        "vpnFile": "https://example.com/vpn/jp.ovpn",
+        "vpnLocked": true
+      }
+    ]
+  },
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=your.package.name"
+  },
+  "AdsController": {
+    "BannerNetwork": "yandex",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork": "yandex",
+    "NativeNetwork": "yandex",
+    "AdInterval": 1,
+    "NativeAdRow": 5,
+    "AdPlacement": {
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "ApplovinKey": "YOUR_APPLOVIN_SDK_KEY",
+      "ApplovinBanner": "YOUR_APPLOVIN_BANNER_ID",
+      "ApplovinInterstitial": "YOUR_APPLOVIN_INTERSTITIAL_ID",
+      "ApplovinInterstitialHome": "YOUR_APPLOVIN_INTERSTITIAL_HOME_ID",
+      "ApplovinReward": "YOUR_APPLOVIN_REWARD_ID",
+      "ApplovinNative": "YOUR_APPLOVIN_NATIVE_ID",
+      "HuaweiAppId": "YOUR_HUAWEI_APP_ID",
+      "HuaweiBanner": "YOUR_HUAWEI_BANNER_ID",
+      "HuaweiInterstitial": "YOUR_HUAWEI_INTERSTITIAL_ID",
+      "HuaweiInterstitialHome": "YOUR_HUAWEI_INTERSTITIAL_HOME_ID",
+      "HuaweiReward": "YOUR_HUAWEI_REWARD_ID",
+      "HuaweiNative": "YOUR_HUAWEI_NATIVE_ID",
+      "YandexBanner": "R-M-13669720-2",
+      "YandexInterstitial": "R-M-13669720-4",
+      "YandexInterstitialHome": "R-M-13669720-4",
+      "YandexReward": "R-M-13669720-3",
+      "YandexNative": "R-M-13669720-1"
+    }
+  }
+}
