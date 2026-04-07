@@ -138,11 +138,11 @@
   },
 
   "AdsController": {
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
+    "BannerNetwork": "fan",
+    "InterstitialNetwork": "fan",
+    "InterstitialNetworkHome": "fan",
+    "RewardNetwork": "fan",
+    "NativeNetwork": "fan",
     "AdInterval": 4,
     "NativeAdRow": 5,
     "AdPlacement": {
