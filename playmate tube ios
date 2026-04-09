@@ -1,0 +1,7 @@
+{
+  "isEnabled": false,
+  "interstitialAdUnitId": "demo-interstitial-yandex",
+  "appOpenAdUnitId": "demo-appopenad-yandex",
+  "interstitialAdInterval": 60,
+  "appOpenAdInterval": 60
+}
