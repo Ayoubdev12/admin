@@ -49,7 +49,7 @@
         "vpnName": "Belgium - Brussels",
         "vpnIso": "BE",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-BE-Brussels-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Brazil - Sao Paulo",
@@ -61,61 +61,61 @@
         "vpnName": "Canada - Toronto",
         "vpnIso": "CA",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-CA-Toronto-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Switzerland - Zurich",
         "vpnIso": "CH",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-CH-Zurich-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Germany - Frankfurt",
         "vpnIso": "DE",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-DE-Frankfurt-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Spain - Madrid",
         "vpnIso": "ES",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-ES-Madrid-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "France - Paris",
         "vpnIso": "FR",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-FR-Paris-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "United Kingdom - London",
         "vpnIso": "GB",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-GB-London-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "India - Mumbai",
         "vpnIso": "IN",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-IN-Mumbai-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Italy - Milan",
         "vpnIso": "IT",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-IT-Milan-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Japan - Tokyo",
         "vpnIso": "JP",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-JP-Tokyo-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Netherlands - Amsterdam",
         "vpnIso": "NL",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-NL-Amsterdam-TCP.ovpn",
-        "vpnLocked": true
+        "vpnLocked": false
       },
       {
         "vpnName": "Turkey - Istanbul",
