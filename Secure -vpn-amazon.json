@@ -7,19 +7,19 @@
         "vpnName": "Andorra - Andorra la Vella",
         "vpnIso": "AD",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AD-Andorra%20la%20Vella%20-%20Virtual-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "UAE - Dubai",
         "vpnIso": "AE",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AE-Dubai-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "Albania - Tirana",
         "vpnIso": "AL",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AL-Tirana-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "Armenia - Yerevan",
@@ -31,7 +31,7 @@
         "vpnName": "Argentina - Buenos Aires",
         "vpnIso": "AR",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AR-Buenos%20Aires-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "Austria - Vienna",
@@ -43,7 +43,7 @@
         "vpnName": "Australia - Sydney",
         "vpnIso": "AU",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AU-Sydney-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "Belgium - Brussels",
