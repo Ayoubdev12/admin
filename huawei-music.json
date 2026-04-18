@@ -1,0 +1,13 @@
+{
+  "Ads": "yandex",
+  "admob_banner": "...",
+  "admob_interstitial": "...",
+  "max": true,
+  "applovin_interstitial_id": "...",
+
+  "yandex_enabled": true,
+  "yandex_interstitial_unit_id": "demo-interstitial-yandex",
+  "yandex_app_open_unit_id": "demo-appopenad-yandex",
+  "yandex_app_open_show_on_cold_start": true,
+  "yandex_app_open_show_on_resume": false
+}
