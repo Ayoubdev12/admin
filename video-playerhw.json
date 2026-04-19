@@ -1,7 +1,7 @@
 {
   "sdkEnabled": true,
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "adUnitId": "demo-interstitial-yandex",
     "preloadOnAppReady": true
   },
