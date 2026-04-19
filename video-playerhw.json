@@ -3,12 +3,17 @@
   "interstitial": {
     "enabled": true,
     "adUnitId": "demo-interstitial-yandex",
-    "preloadOnAppReady": true
+    "preloadOnAppReady": true,
+    "useForAllPlacements": true,
+    "delayBeforeLoadMs": 0,
+    "delayBeforeShowMs": 0,
+    "minIntervalBetweenShowsMs": 3000,
+    "interstitialOnlyOverlayDelayMs": 2000
   },
   "appOpen": {
     "enabled": true,
     "adUnitId": "demo-appopenad-yandex",
-    "useYandexInsteadOfAdMob": true,
+    "useYandexInsteadOfAdMob": false,
     "showOnColdStart": false,
     "showOnWarmStart": true,
     "minSecondsInBackgroundBeforeShow": 0,
