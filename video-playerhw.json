@@ -1,14 +1,14 @@
 {
   "sdkEnabled": true,
-  "interstitial": {
+    "interstitial": {
     "enabled": true,
     "adUnitId": "demo-interstitial-yandex",
     "preloadOnAppReady": true,
     "useForAllPlacements": true,
-    "delayBeforeLoadMs": 0,
-    "delayBeforeShowMs": 0,
-    "minIntervalBetweenShowsMs": 3000,
-    "interstitialOnlyOverlayDelayMs": 2000
+    "delayBeforeLoadMs": 2000,
+    "delayBeforeShowMs": 1500,
+    "minIntervalBetweenShowsMs": 60000,
+    "interstitialOnlyOverlayDelayMs": 1000
   },
   "appOpen": {
     "enabled": true,
