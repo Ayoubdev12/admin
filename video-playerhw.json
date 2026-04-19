@@ -8,7 +8,7 @@
   "appOpen": {
     "enabled": true,
     "adUnitId": "demo-appopenad-yandex",
-    "useYandexInsteadOfAdMob": false,
+    "useYandexInsteadOfAdMob": true,
     "showOnColdStart": false,
     "showOnWarmStart": true,
     "minSecondsInBackgroundBeforeShow": 0,
