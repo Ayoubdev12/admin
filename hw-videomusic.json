@@ -1,5 +1,5 @@
 {
-  "sdkEnabled": true,
+  "sdkEnabled": false,
     "interstitial": {
     "enabled": true,
     "adUnitId": "demo-interstitial-yandex",
