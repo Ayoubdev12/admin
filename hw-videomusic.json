@@ -1,0 +1,22 @@
+{
+  "sdkEnabled": true,
+    "interstitial": {
+    "enabled": true,
+    "adUnitId": "demo-interstitial-yandex",
+    "preloadOnAppReady": true,
+    "useForAllPlacements": true,
+    "delayBeforeLoadMs": 2000,
+    "delayBeforeShowMs": 1500,
+    "minIntervalBetweenShowsMs": 60000,
+    "interstitialOnlyOverlayDelayMs": 1000
+  },
+  "appOpen": {
+    "enabled": true,
+    "adUnitId": "demo-appopenad-yandex",
+    "useYandexInsteadOfAdMob": false,
+    "showOnColdStart": false,
+    "showOnWarmStart": true,
+    "minSecondsInBackgroundBeforeShow": 0,
+    "adMaxAgeHours": 4
+  }
+}
