@@ -5,7 +5,7 @@
    "ShowLoadingAds":true,
   
   "DEFAULT_COINS": 0,
-  "OWNED_COINS_FOR_REWARD_WATCH": 1,
+  "OWNED_COINS_FOR_REWARD_WATCH": 0,
   "IMAGE_GENERATION_COST": 10,
 
   "number_of_sessions_to_show": 1,
