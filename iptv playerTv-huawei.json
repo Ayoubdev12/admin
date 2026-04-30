@@ -1,9 +1,11 @@
 {
   "isEnabled": true,
-  "interstitialAdUnitId": "R-M-17652216-1",
-  "appOpenAdUnitId": "R-M-17652216-2",
+  "interstitialAdUnitId": "R-M-15616618-1",
+  "appOpenAdUnitId": "R-M-15616618-2",
   "interstitialAdInterval": 60,
   "showAdOnMovieDetails": true,
   "showAdOnSearch": true,
-  "showAdOnNavigation": true
+  "showAdOnNavigation": true,
+
+  "homeUrl": "https://hdtodayz.to/home"
 }
