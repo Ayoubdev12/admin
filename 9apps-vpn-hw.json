@@ -139,8 +139,8 @@
 
   "AdsController": {
     "BannerNetwork": "yandex",
-    "InterstitialNetwork": "bb",
-    "InterstitialNetworkHome": "bb",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
     "RewardNetwork": "yandex",
     "NativeNetwork": "yandex",
     "AdInterval": 10,
