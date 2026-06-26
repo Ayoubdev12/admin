@@ -139,11 +139,11 @@
 
   "AdsController": {
     "BannerNetwork": "yandex",
-    "InterstitialNetwork": "bb",
-    "InterstitialNetworkHome": "bb",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
     "RewardNetwork": "yandex",
     "NativeNetwork": "yandex",
-    "AdInterval": 10,
+    "AdInterval": 3,
     "NativeAdRow": 5,
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -166,7 +166,7 @@
       "YandexBanner": "R-M-13669720-2",
       "YandexInterstitial": "R-M-13669720-4",
       "YandexInterstitialHome": "R-M-13669720-4",
-      "YandexReward": "demo-rewarded-yandex",
+      "YandexReward": "R-M-13669720-3",
       "YandexNative": "R-M-13669720-1"
     }
   }
