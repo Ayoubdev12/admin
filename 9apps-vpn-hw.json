@@ -138,10 +138,10 @@
   },
 
   "AdsController": {
-    "BannerNetwork": "huawei",
+    "BannerNetwork": "yandex",
     "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "huawei",
-    "RewardNetwork": "huawei",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork": "yandex",
     "NativeNetwork": "yandex",
     "AdInterval": 1,
     "NativeAdRow": 5,
