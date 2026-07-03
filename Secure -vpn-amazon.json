@@ -25,7 +25,7 @@
         "vpnName": "Armenia - Yerevan",
         "vpnIso": "AM",
         "vpnFile": "https://ayoubdev.store/vpn/vpnapp/NCVPN-AM-Yerevan%20-%20Virtual-TCP.ovpn",
-        "vpnLocked": false
+        "vpnLocked": true
       },
       {
         "vpnName": "Argentina - Buenos Aires",
